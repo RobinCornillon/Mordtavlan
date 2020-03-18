@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2e0edfcb-0e06-49b4-8399-e1a8496ac9a7}">
+		<property name="assetPath">
+			<value>Pub/Pub Glass_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.3409977324263043</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3a4c9c3-6827-4897-bbc6-5309cfee1ec1}</destination>
+		</relationship>
+	</object>
+</objects>

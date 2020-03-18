@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{71e55d0b-6ff7-4ad1-806c-d8a53bb085d8}">
+		<property name="assetPath">
+			<value>Pub/Pub Atmos.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>35.200997732426302</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3a4c9c3-6827-4897-bbc6-5309cfee1ec1}</destination>
+		</relationship>
+	</object>
+</objects>
